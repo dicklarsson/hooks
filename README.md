@@ -9,6 +9,8 @@ Customer hooks are useful when you want to "use", as in fetch, information/data.
   const currentUser = useUser(userName);
 ```
 
+## How to install and run
+
 npm install
 
 npm start
