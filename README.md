@@ -11,6 +11,6 @@ Customer hooks are useful when you want to "use", as in fetch, information/data.
 
 ## How to install and run
 
-npm install
+`npm install`
 
-npm start
+`npm start`
