@@ -14,7 +14,3 @@ Customer hooks are useful when you want to "use", as in fetch, information/data.
 npm install
 
 npm start
-
-```
-
-```
